@@ -10,3 +10,5 @@ hahah,sourceTree 能行吗？？？
 我还是branch1，看看sourceTree能不能同步
 
 我是branch1，通过sourceTree进行修改
+
+在没有通过的情况下，进行编辑，看看commit时会出现啥
