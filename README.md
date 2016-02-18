@@ -8,3 +8,5 @@ hahah,sourceTree 能行吗？？？
 我是branch1，嘿嘿
 
 我还是branch1，看看sourceTree能不能同步
+
+我是branch1，通过sourceTree进行修改
