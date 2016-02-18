@@ -11,4 +11,8 @@ hahah,sourceTree 能行吗？？？
 
 我是branch1，通过sourceTree进行修改
 
+
 在没有通过的情况下，进行编辑，看看commit时会出现啥
+
+我是通过github进行编辑的，看看是不是会发生冲突
+
