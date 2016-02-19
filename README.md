@@ -19,3 +19,5 @@ hahah,sourceTree 能行吗？？？
 我再在github上编辑一下，测试sourceTree的创建拉取请求的功能
 
 我是branch2，嘿嘿
+
+在github上编辑branch2
